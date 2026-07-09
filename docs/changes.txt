@@ -268,6 +268,7 @@ All (GUI):
 - Don't show modal HTML help window for not found topic (Richard Thomson, #3219).
 - Recognize "Dstrok" as an entity in wxHTML (Richard Thomson, #3996).
 - Fix XRC unknown-control size hints after attaching (Richard Thomson, #2726).
+- Fix handling spacing in wxGridBagSizer (Richard Thomson, #3105).
 - Fix handling TGA files with invalid size (MarkLee131, #26760).
 - Fix buffer overflow with invalid cached help books (MarkLee131, #26765).
 
